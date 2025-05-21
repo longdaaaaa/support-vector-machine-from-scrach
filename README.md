@@ -1,3 +1,3 @@
-# support-vector-machine-from-scrach-
+# support-vector-machine-from-scrach-s
 
 sip
